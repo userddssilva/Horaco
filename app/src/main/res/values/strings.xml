@@ -10,4 +10,13 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_comptime">Complement</string>
+
+    <!-- strings to activity complement-->
+    <string name="sw_option_1">Sistemas de Informação</string>
+    <string name="sw_option_2">Engenharia de Computação</string>
+    <string name="sw_option_3">Licenciatura em Computação</string>
+    <string name="curso">Curso</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
