@@ -22,4 +22,14 @@
         android:name="com.br.horaco.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/blankFragment"
+        android:name="com.br.horaco.BlankFragment"
+        android:label="fragment_blank"
+        tools:layout="@layout/fragment_blank" />
+    <fragment
+        android:id="@+id/comptimeFragment"
+        android:name="com.br.horaco.ui.comptime.ComptimeFragment"
+        android:label="fragment_comptime"
+        tools:layout="@layout/fragment_comptime" />
 </navigation>

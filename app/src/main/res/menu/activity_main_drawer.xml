@@ -17,8 +17,12 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
         <item
-            android:id="@+id/nav_comptime"
+            android:id="@+id/comptimeFragment"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_comptime" />
+        <item
+            android:id="@+id/blankFragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Blank" />
     </group>
 </menu>
